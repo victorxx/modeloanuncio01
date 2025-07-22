@@ -116,6 +116,17 @@
   const promoOptions = [
     {
       url:"https://www.airbnb.com.br/r/saibvictore?s=6&t=061n0g",
+      text:"O AIRBNB É UMA ÓTIMA FORMA DE VOCÊ GANHA DINHEIRO COM SEU IMÓVEL!"
+    },
+    {
+      url:"https://wa.me/27999497001?text=Olá!%20Gostaria%20de%20falar%20com%20vocês.segurodecarro",
+      text:"JÁ POSSUI UM SEGURO AUTO NÃO? TEMOS A SOLUÇÃO PARA VOCÊ"
+    },
+    {
+      url:"https://wa.me/27999497001?text=Olá!%20Gostaria%20de%20falar%20com%20vocês.segurodecarro",
+      text:"SEGUROS E CONSÓRCIOS CONFIRA !"
+    {,
+      url:"https://www.airbnb.com.br/r/saibvictore?s=6&t=061n0g",
       text:"GANHE DINHEIRO COM SEU IMÓVEL"
     },
     {
