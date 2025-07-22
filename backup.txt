@@ -115,6 +115,10 @@
 <script>
   const promoOptions = [
     {
+      url"https://www.airbnb.com.br/r/saibvictore?s=6&t=061n0g",
+      text:"GANHE DINHEIRO COM SEU IMÓVEL"
+    },
+    {
       url: "http://www.espiritosanto-es.com.br/cloudflare/3.html",
       text: "confira essa oportunidade"
     },
