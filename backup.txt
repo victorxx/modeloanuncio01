@@ -118,6 +118,18 @@
 
 
  const promoOptions = [
+          {url:"https://vitoriacloudflare01.pages.dev/",text:"NOTICIAS DE VITÓRIA ES CONFIRA ESSAS NOVIDADES"},
+          {url:"https://vitoriacloudflare01.pages.dev/", text:"CONFIRA AS ÚLTIMAS NOTÍCIAS DE VITÓRIA ES"},
+          {url:"https://vitoriacloudflare01.pages.dev/", text:"NOVIDADES QUENTES DIRETO DE VITÓRIA ES"},
+          {url:"https://vitoriacloudflare01.pages.dev/", text:"ACONTECEU AGORA EM VITÓRIA – VEJA AQUI"},
+          {url:"https://vitoriacloudflare01.pages.dev/", text:"VEJA O QUE ESTÁ MOVIMENTANDO VITÓRIA ES"},
+          {url:"https://vitoriacloudflare01.pages.dev/", text:"NOTÍCIAS ATUALIZADAS DE VITÓRIA ES"},
+          {url:"https://vitoriacloudflare01.pages.dev/", text:"EXCLUSIVO: ÚLTIMAS DE VITÓRIA ES"},
+          {url:"https://vitoriacloudflare01.pages.dev/", text:"FATOS URGENTES EM VITÓRIA – CLIQUE E CONFIRA"},
+          {url:"https://vitoriacloudflare01.pages.dev/", text:"DIRETO DE VITÓRIA ES: ACONTECIMENTOS RECENTES"},
+          {url:"https://vitoriacloudflare01.pages.dev/", text:"FIQUE POR DENTRO DAS NOVIDADES DE VITÓRIA"},
+          {url:"https://vitoriacloudflare01.pages.dev/", text:"VITÓRIA ES: VEJA AS PRINCIPAIS NOTÍCIAS DE HOJE"},
+
     { url: "https://55ae4c7e.contatoroberto.pages.dev/", text: "Simule seu Seguro Auto de forma rápida e gratuita" },
     { url: "https://55ae4c7e.contatoroberto.pages.dev/", text: "Consórcio de veículos com parcelas que cabem no bolso" },
     { url: "https://55ae4c7e.contatoroberto.pages.dev/", text: "Seguro Residencial completo com assistência 24h" },
