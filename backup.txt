@@ -115,7 +115,7 @@
 <script>
   const promoOptions = [
     {
-      url"https://www.airbnb.com.br/r/saibvictore?s=6&t=061n0g",
+      url:"https://www.airbnb.com.br/r/saibvictore?s=6&t=061n0g",
       text:"GANHE DINHEIRO COM SEU IMÓVEL"
     },
     {
