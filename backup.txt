@@ -189,7 +189,8 @@
     { url: "https://drogasillinhadotempo.vercel.app/", text: "Notícias da RD Saúde (Drogasil)" },
     { url: "https://congeladotimeline.vercel.app/", text: "Ofertas de arrepiar no frio de Vitória – ES" },
     { url: "https://cavaleiroszodiacoj.netlify.app/", text: "Cavaleiros do Zodíaco" },
-    { url: "https://vendernainternet9.wordpress.com/vps-avancado/", text: "VPS" }
+    { url: "https://vendernainternet9.wordpress.com/vps-avancado/", text: "VPS" },
+    {url:"https://c6a856dd-1cfe-4b3f-bf6b-b4cb74c3a6a0-00-3jleqf3avboy2.picard.replit.dev/",text:"CONFERIR ESSA OPORTUNIDADE"}
   ];
 
   window.addEventListener("DOMContentLoaded", () => {
