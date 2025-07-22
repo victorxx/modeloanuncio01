@@ -114,6 +114,15 @@
 
 <script>
   const promoOptions = [
+      {
+      url"https://central.dokehost.com.br/aff.php?aff=90",
+      text:"Dokehost já conhece? confira uma vps especial"
+    },
+    {
+      url"https://central.dokehost.com.br/aff.php?aff=90",
+      text:"você conhece a dokehost? não confira as condições"
+    },
+    
     {
       url:"https://www.airbnb.com.br/r/saibvictore?s=6&t=061n0g",
       text:"O AIRBNB É UMA ÓTIMA FORMA DE VOCÊ GANHA DINHEIRO COM SEU IMÓVEL!"
